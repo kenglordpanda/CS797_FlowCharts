@@ -61,7 +61,7 @@
           <mxGeometry x="540" y="320" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aUr_PLwHLf_4qL4r7stv-26" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aUr_PLwHLf_4qL4r7stv-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="280" width="60" height="30" as="geometry" />
@@ -81,8 +81,8 @@
         <mxCell id="aUr_PLwHLf_4qL4r7stv-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aUr_PLwHLf_4qL4r7stv-33" target="aUr_PLwHLf_4qL4r7stv-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUr_PLwHLf_4qL4r7stv-33" value="Is s empty" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="aUr_PLwHLf_4qL4r7stv-33" value="Is s empty and p[i] = &#39;)&#39;, &#39;[&#39;, or &#39;}&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="362.5" y="415" width="103" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aUr_PLwHLf_4qL4r7stv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aUr_PLwHLf_4qL4r7stv-35" target="aUr_PLwHLf_4qL4r7stv-9">
           <mxGeometry relative="1" as="geometry" />
